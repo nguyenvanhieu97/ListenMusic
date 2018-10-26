@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius">30dp</dimen>
+    <dimen name="title_margin_top">180dp</dimen>
+    <dimen name="seek_bar_width">300dp</dimen>
+    <dimen name="button_size">60dp</dimen>
+    <dimen name="button_margin_top">16dp</dimen>
+    <dimen name="button_margin_vertical">80dp</dimen>
+</resources>
